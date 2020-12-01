@@ -59,32 +59,6 @@ It includes:
 
 
 
-<<<<<<< HEAD:README.md
-The dataset is submitted for publishing at the [COMPAY19 Workshop](https://openreview.net/group?id=MICCAI.org/2019/Workshop/COMPAY) ([link to the paper](https://openreview.net/pdf?id=HklExX79-S)).
-=======
-This dataset has been for published at the [COMPAY19 Workshop](https://openreview.net/group?id=MICCAI.org/2019/Workshop/COMPAY) ([link to the paper](https://openreview.net/pdf?id=HklExX79-S)).
->>>>>>> 43806c33c78eade2a32dd052e8941fae246a747e:pT1_dataset_2/README.md
-The parameters for the GED calculated in this paper can be found [here](https://bit.ly/2xDuRcV).
-
-The current state-of-the-art performance is 83.3±1.7 on the 4-fold CV. If you outperform this, let me know and I will add you to the list.
-
-| Published by  | Paper       | Used method | Performance |
-|---------------|-------------|-------------|-------------|
-| Studer et al. | ([COMPAY Workshop @ MICCAI 2019](https://openreview.net/pdf?id=HklExX79-S)). | Improved bipartite graph-matching | 83.3±1.7 |
-
-If you use this dataset in your publication cite this paper:
-
-``@inproceedings{studer2019graph,
-  title={Graph-based Classification of Intestinal Glands in Colorectal Cancer Tissue Images},
-  author={Studer, Linda and Toneyan, Shushan and Zlobec, Inti and Dawson, Heather and Fischer, Andreas},
-  year={2019}
-  booktitle={COMPAY Workshop, International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  year={2019},
-}``
-
-This work is part of a larger project. Find out more [here](https://icosys.ch/bts-project).
-
-
 
 ## Requirements:
 To use this repository you can create a virtual environment from the requirement.yml file:
